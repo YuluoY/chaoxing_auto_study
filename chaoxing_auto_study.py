@@ -1,12 +1,9 @@
-from selenium import webdriver
 import time
 import pickle
-import requests
-import re
-from datetime import datetime
 import os
 import sys
-import math
+
+from selenium import webdriver
 
 
 def close(wd):
